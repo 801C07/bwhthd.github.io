@@ -1,16 +1,16 @@
 ---
 layout: page
-title: About Ben
+title: About
 ---
 
 <div class="message">
-  A Gentleman and a Scholar
+	Student, Programmer, and Outdoors Enthusiast  
 </div>
 
-A First Level Header
+Hi!
 ====================
 
-A Second Level Header
+My name is Ben Whitehead, I am a student at Lewis & Clark College in Portland, Oregon.
 ---------------------
 
 Now is the time for all good men to come to
