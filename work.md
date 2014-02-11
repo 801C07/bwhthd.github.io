@@ -4,7 +4,7 @@ title: Work
 ---
 #Summary
 
-I am a Junior at Lewis & Clark College in Portland Oregon. I specialize in parallel computing, high level mathematics and programming languages. Click [**here**](/projects) to see some of the things I have been working on.
+I am a Junior at Lewis & Clark College in Portland Oregon. I specialize in parallel computing, high level mathematics and programming languages. [**Here**](/projects) you can see some of the things I have been working on.
 
 ---
 ##Experience
