@@ -1,4 +1,4 @@
-#bwhthd
+#bwhthd.github.io
 ##About
 This is a personal website for Ben Whitehead. Thinny is the [Jekyll](https://github.com/TryGhost/Ghost) theme used for it.
 
