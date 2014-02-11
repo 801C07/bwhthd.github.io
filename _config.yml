@@ -6,14 +6,14 @@ pygments:	true
 permalink:	/blog/:title
 
 # Setup
-title:		Thinny
+title:		bwhthd
 tagline:	'blog'
 description:	'My personal blog.'
-url:		http://camporez.com
+url:		http://bwhthd.gihub.io
 
 author:
-  name:	'Ian Camporez Brunelli'
-  url:	https://google.com/+IanCamporezBrunelli
+  name:	'Ben Whitehead'
+  url:	http://bwhthd.github.io
 
 paginate:	6
 
