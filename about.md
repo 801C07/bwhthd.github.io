@@ -3,7 +3,7 @@ layout: page
 title: About
 ---
 
-->Hi!-<
+->Hi!<-
 ====================
 <div class="message">
 	My name is Ben Whitehead, I study mathematics at Lewis & Clark College.
