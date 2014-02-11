@@ -9,7 +9,7 @@ permalink:	/blog/:title
 title:		bwhthd
 tagline:	'blog'
 description:	'My personal blog.'
-url:		http://bwhthd.gihub.io
+url:		http://bwhthd.github.io
 
 author:
   name:	'Ben Whitehead'
