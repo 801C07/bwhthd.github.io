@@ -1,10 +1,10 @@
 ---
 layout: page
-title: About the site, the author, the life, the universe and everything more.
+title: About Ben
 ---
 
 <div class="message">
-  Ben Whitehead
+  A Gentleman and a Scholar
 </div>
 
 A First Level Header
