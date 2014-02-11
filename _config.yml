@@ -9,11 +9,11 @@ permalink:	/blog/:title
 title:		Thinny
 tagline:	'blog'
 description:	'My personal blog.'
-url:		http://bwhthd.github.io/
+url:		http://camporez.com
 
 author:
-  name:	'Ben Whitehead'
-  url:	http://bwthhd.github.io
+  name:	'Ian Camporez Brunelli'
+  url:	https://google.com/+IanCamporezBrunelli
 
 paginate:	6
 
