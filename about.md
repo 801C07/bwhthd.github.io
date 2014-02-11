@@ -3,24 +3,14 @@ layout: page
 title: About
 ---
 
-Hi!
+->Hi!-<
 ====================
 <div class="message">
-	My name is Ben Whitehead, I am a student at Lewis & Clark College in Portland, Oregon.
+	My name is Ben Whitehead, I study mathematics at Lewis & Clark College.
 
 </div>
 
-Now is the time for all good men to come to
-the aid of their country. This is just a
-regular paragraph.
+I am interested in anything related to math and the outdoors, this includes programming, web development, skiing, backpacking, and playing frisbee. I am from Boise, Idaho and now I live and attend school in Portland, Oregon.
 
-The quick brown fox jumped over the lazy
-dog's back.
-
-### Header 3
-
-> This is a blockquote.
-> 
-> This is the second paragraph in the blockquote.
->
-> ## This is an H2 in a blockquote
+If you would like to work with me, email <a href="mailto:bdwhthd@gmail.com">
+bdwhthd@gmail.com</a> 
