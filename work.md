@@ -10,7 +10,9 @@ title: Work
 #Background
 ---
 ##Summary
+
 I am a Junior at Lewis & Clark College in Portland Oregon. I specialize in parallel computing, high level mathematics and programming languages. View my full profile to see some the publications I worked on last summer.
+
 ---
 ##Experience
 
