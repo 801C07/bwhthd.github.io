@@ -9,9 +9,10 @@ I am a Junior at Lewis & Clark College in Portland Oregon. I specialize in paral
 ---
 ##Experience
 <div style="clear: both">
-<h4 style="float: right" >Web Content Manager: Lewis & Clark College</h4> 
-<h5 style="float: left"> Oct. 2011 - Present</h5>
+<h4 style="float: left" >Web Content Manager: Lewis & Clark College</h4> 
+<h5 style="float: right"> Oct. 2011 - Present</h5>
 </div>
 
-I edit and create more usable content with the Livewhale CMS.
+
+I edit and create more usable content with the [**Livewhale CMS**](http://livewhale.com/).
 
