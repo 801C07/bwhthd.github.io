@@ -3,15 +3,12 @@ layout: page
 title: About
 ---
 
-<div class="message">
-	Student, Programmer, and Outdoors Enthusiast  
-</div>
-
 Hi!
 ====================
+<div class="message">
+	My name is Ben Whitehead, I am a student at Lewis & Clark College in Portland, Oregon.
 
-My name is Ben Whitehead, I am a student at Lewis & Clark College in Portland, Oregon.
----------------------
+</div>
 
 Now is the time for all good men to come to
 the aid of their country. This is just a
