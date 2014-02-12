@@ -332,7 +332,7 @@ pre code {
 }
 
 .clean a {
-	color: #000000;
+	color: #FFFFFF;
 }
 
 .dark, .dark a {
@@ -367,7 +367,7 @@ pre code {
 .menu {
 	display: block;
 	cursor: pointer;
-	background-color: #000000;
+	background-color: #FFFFFF;
 	opacity: .75;
 	width: 24px;
 	height: 24px;
@@ -382,11 +382,11 @@ pre code {
 }
 
 .menu:hover, .menu:active  {
-	background-color: #777;
+	background-color: #FFFFFF;
 }
 
 .menu-content {
-	background-color: #777;
+	background-color: #FFFFFF;
 	width: auto;
 	top: 40px;
 	left: 14px;
@@ -396,6 +396,7 @@ pre code {
 	padding-right: 12px;
 	border-radius: 0px 3px 3px 3px;
 	position: fixed;
+	opacity: .75;
 	text-align: center;
 	z-index: 1;
 }
@@ -405,6 +406,7 @@ pre code {
 	font-size: 15px;
 	font-weight: bold;
 	line-height: 26px;
+	color: #000000;
 }
 
 .menu-content a:hover {
@@ -412,7 +414,7 @@ pre code {
 }
 
 .menu span {
-	color: #eee;
+	color: #000000;
 	font-size: 16px;
 	height: 20px;
 	width: 20px;
