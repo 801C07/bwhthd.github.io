@@ -32,7 +32,7 @@ I edit and create more usable content using [**Livewhale CMS**](http://livewhale
 ####Summer 2013
 Worked with professor Jens Mache at Lewis & Clark College researching the best methods for teching parallel computing.
 
-* Published at [**WORLDCOMP**](/worldcomp) world congress in computer science.
+* Published at [**WORLDCOMP**](http://www.world-academy-of-science.org/) world congress in computer science.
 * Developed and presented a [**module**](/haskell.pdf) for functional parallel programming in Haskell.
 * [**CUDA**](/cuda.pdf) DNA sequencing algorithm
 
