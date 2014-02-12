@@ -3,7 +3,7 @@ layout: page
 title: Work
 ---
 ##Summary
-I am a Junior at Lewis & Clark College in Portland Oregon, expecting to graduate in 2015. I specialize in parallel computing, mathematics, and programming languages. [**Here**](/projects) you can see some of the things I have been working on. Also, a pdf version of my [**resume**](/resBen.pdf) for those of you who love <span class="latex">L<sup>a</sup>T<sub>e</sub>X</span> as much as myself.
+I am a Junior at Lewis & Clark College in Portland Oregon, expecting to graduate in 2015. I specialize in parallel computing, mathematics, and programming languages. [**Here**](/projects) you can see some of the things I have been working on. Also, a pdf version of my [**resume**](/resBen.pdf) for those who love <span class="latex">L<sup>a</sup>T<sub>e</sub>X</span> as much as myself.
 
 ---
 ##Computer Skills
@@ -38,7 +38,7 @@ Worked with professor Jens Mache at Lewis & Clark College researching the best m
 
 ###Math Tutor, Owner: Collegeapptutor.com
 #### Aug. 2012 - Jan. 2013
-Website for the math tutoring business I started. I used it to inform people of the service I started.
+This was the first website I created. I used it for a math tutoring business to inform people of the service.
 
 * Marketing
 * Entrepreneurship
@@ -51,6 +51,6 @@ I took three semesters of Mandarin Chinese at Lewis & Clark.
 ---
 ##Extra-Curricular
 * Lewis & Clark College: Men's Ultimate Frisbee
-* Team Member: Pacific Rim Collegiate Cyber Defense Competition 2013
-* Team Member: ACM Programming Competition 2013.
+* Team Member: [**Pacific Rim Collegiate Cyber Defense Competition**](http://blogs.uw.edu/ciacsec/prccdc/) 2013
+* Team Member: [**ACM Programming Competition**](http://en.wikipedia.org/wiki/ACM_International_Collegiate_Programming_Contest) 2013.
 
