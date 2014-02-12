@@ -13,6 +13,7 @@ I am a Junior at Lewis & Clark College in Portland Oregon. I specialize in paral
 I edit and create more usable content using [**Livewhale CMS**](http://livewhale.com/).
 
 * Content Migration and Content Management Systems
+
 * Test search engine for [**lclark.edu**](http://search.apps.lclark.edu)
 ---
 
