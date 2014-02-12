@@ -8,7 +8,7 @@ I am a Junior at Lewis & Clark College in Portland Oregon. I specialize in paral
 
 ---
 ##Experience
-####Web Content Manager: [**Lewis & Clark College**](http://lclark.edu)
+###Web Content Manager: [**Lewis & Clark College**](http://lclark.edu)
 ##### Oct. 2011 - Present
 I edit and create more usable content using [**Livewhale CMS**](http://livewhale.com/).
 

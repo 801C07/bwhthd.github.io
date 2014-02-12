@@ -61,6 +61,15 @@ h3 {
 	font-size: 24px;
 }
 
+h4 {
+	margin-top: 15px;
+}
+
+h5 {
+	margin-top: 10px;
+}
+
+
 img {
 	border-radius: 3px;
 	max-width: 100%;
