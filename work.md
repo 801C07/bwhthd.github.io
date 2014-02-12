@@ -3,8 +3,20 @@ layout: page
 title: Work
 ---
 #Summary
-
 I am a Junior at Lewis & Clark College in Portland Oregon. I specialize in parallel computing, mathematics, and programming languages. [**Here**](/projects) you can see some of the things I have been working on.
+
+---
+##Education
+###Lewis & Clark College
+#### Expected May 2015
+Bachelor of Arts: Mathematics & Computer Science
+
+---
+
+##Computer Skills
+Languages: Java, C, Haskell, JavaScript, LATEX, HTML, Python, PHP, Markdown
+
+Operating Systems: Linux, Windows, OSX
 
 ---
 ##Experience
@@ -18,7 +30,7 @@ I edit and create more usable content using [**Livewhale CMS**](http://livewhale
 
 ###Math Instructor: Mathnasium LLC
 ####Jan. 2013 - Present
-Mathnasium LLC, Portland, OR. Mathnasium is a place where students of all levels come to learn about math. My job is to teach the Mathnasium curriculum to these students. I occasionally assist them with learning topics they are covering in school.
+[**Mathnasium LLC**](http://mathnasium.com/westlinn): West Linn, OR. Mathnasium is a place where students of all levels come to learn about math. My job is to teach the Mathnasium curriculum to these students; I occasionally assist them with learning topics they are covering in school.
 
 * Teaching (K-12)
 * Communication
@@ -27,9 +39,9 @@ Mathnasium LLC, Portland, OR. Mathnasium is a place where students of all levels
 ####Summer 2013
 Worked with professor Jens Mache at Lewis & Clark College researching the best methods for teching parallel computing.
 
-* Published at WORLDCOMP world congress in computer science.
+* Published at [**WORLDCOMP**](/worldcomp) world congress in computer science.
 * Developed and presented a [**module**](/haskell.pdf) for functional parallel programming in Haskell.
-* [**CUDA**](/cuda.pdf)
+* [**CUDA**](/cuda.pdf) DNA sequencing algorithm
 
 ###Math Tutor, Owner: Collegeapptutor.com
 #### Aug. 2012 - Jan. 2013
@@ -42,8 +54,7 @@ Website for the math tutoring business I started. I used it to inform people of 
 ---
 
 ##Extra-Curricular
-
-#### Lewis & Clark College: Men's Ultimate Frisbee
-####Team Member: Pacific Rim Collegiate Cyber Defense Competition 2013
-####Team Member: ACM Programming Competition 2013.
+* Lewis & Clark College: Men's Ultimate Frisbee
+* Team Member: Pacific Rim Collegiate Cyber Defense Competition 2013
+* Team Member: ACM Programming Competition 2013.
 
