@@ -9,5 +9,5 @@ I am interested in anything related to math and the outdoors, this mostly result
 
 ---
 
-If you would like to [**work**](/work)</a> with me, email <a href="mailto:bdwhthd@gmail.com">
-<strong>bdwhthd@gmail.com</strong></a>.
+If you would like to [**work**](/work)</a> with me, here is my <a href="mailto:bdwhthd@gmail.com">
+<strong>email</strong></a>.
