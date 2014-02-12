@@ -19,7 +19,8 @@ paginate:	6
 
 # Custom vars
 icon: /assets/images/icon.png
-cover: /assets/images/cover.jpg
+cover: /assets/images/leaves.jpg
+resume: /resBen.pdf
 version:	1.0.0
 github:
   repo:	https://github.com/camporez/camporez.github.io

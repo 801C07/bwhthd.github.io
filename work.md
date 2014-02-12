@@ -5,6 +5,7 @@ title: Work
 #Summary
 I am a Junior at Lewis & Clark College in Portland Oregon, expecting to graduate in 2015. I specialize in parallel computing, mathematics, and programming languages. [**Here**](/projects) you can see some of the things I have been working on. 
 
+---
 ##Computer Skills
 Languages: Java, C, Haskell, JavaScript, LATEX, HTML, Python, PHP, Markdown
 
@@ -45,7 +46,7 @@ Website for the math tutoring business I started. I used it to inform people of 
 
 ---
 ##Languages
-I took three semesters of Mandrin Chinese at Lewis & Clark.
+I took three semesters of Mandarin Chinese at Lewis & Clark.
 
 ---
 ##Extra-Curricular
