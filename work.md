@@ -3,15 +3,7 @@ layout: page
 title: Work
 ---
 #Summary
-I am a Junior at Lewis & Clark College in Portland Oregon. I specialize in parallel computing, mathematics, and programming languages. [**Here**](/projects) you can see some of the things I have been working on.
-
----
-##Education
-###Lewis & Clark College
-#### Expected May 2015
-Bachelor of Arts: Mathematics & Computer Science
-
----
+I am a Junior at Lewis & Clark College in Portland Oregon, expecting to graduate in 2015. I specialize in parallel computing, mathematics, and programming languages. [**Here**](/projects) you can see some of the things I have been working on.
 
 ##Computer Skills
 Languages: Java, C, Haskell, JavaScript, LATEX, HTML, Python, PHP, Markdown
@@ -52,7 +44,10 @@ Website for the math tutoring business I started. I used it to inform people of 
 * Communication
 
 ---
+##Languages
+I took three semesters of Mandrin Chinese at Lewis & Clark.
 
+---
 ##Extra-Curricular
 * Lewis & Clark College: Men's Ultimate Frisbee
 * Team Member: Pacific Rim Collegiate Cyber Defense Competition 2013
