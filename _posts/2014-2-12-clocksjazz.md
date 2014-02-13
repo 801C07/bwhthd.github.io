@@ -10,4 +10,4 @@ The other day [**Quinn**](https://qrolhf.com) asked "What would you do if you ha
 
 I prefer to wake up to [**KMHD**](http://kmhd.org), but recently my clock radio has stopped picking up the signal. This makes me want to use the raspberry pi, or prehaps figure out what is wrong with my radio :|
 
-Also, The website is almost complete! The only section left is fun, work before play. I want to thank Quinn for inspiring me to drop linkedin for this site, in addition to answering a few questions along the way. 
+Also, The website is almost complete! The only section left is fun, work before play. I want to thank Quinn for inspiring me to drop linkedin for this site, in addition to answering a few questions along the way. I would love to hear any feedback about this website, so please [**email**](bdwhthd@gmail.com), chat, call, text, etc. Let me know what you think! Also, Let me know if you are interested in [**creating**](/create.html) your own online presence.
