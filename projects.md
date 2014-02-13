@@ -16,4 +16,4 @@ Over the past summer, I worked with professor Jens Mache and a team of Lewis & C
 
 * CUDA DNA sequencing algorithm [**Poster**](\cuda.pdf), our results for using [**prefix summation**](http://en.wikipedia.org/wiki/Prefix_sum) techniques for computing the [**Needleman–Wunsch Algorithm**](http://en.wikipedia.org/wiki/Needleman%E2%80%93Wunsch_algorithm).
 
-* The [**website**]() Dani Fenske created to keep record of our project.
+* The [**website**](https://sites.google.com/a/lclark.edu/parallel/) Dani Fenske created to keep record of our project.
