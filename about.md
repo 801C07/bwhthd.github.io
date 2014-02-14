@@ -9,4 +9,4 @@ I am interested in anything related to math and the outdoors, this mostly result
 
 ---
 
-If you have a project, feel free to email me at (**bdwhthd@gmail.com**)[mailto:bdwhthd@gmail.com]
+If you have a project, feel free to email me at <a href="mailto: bdwhthd@gmail.com"> bdwhthd@gmail.com</a>.
