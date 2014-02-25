@@ -1,7 +1,7 @@
 ---
 layout: fun
 title: Fun
-image: /assets/images/Sawtooth.jpg
+image: /assets/images/Sawtooths.jpg
 ---
 
 ###Outdoors
