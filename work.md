@@ -2,6 +2,7 @@
 layout: page
 title: Work
 ---
+
 ##Summary
 I am a Junior at Lewis & Clark College in Portland Oregon, expecting to graduate in 2015. I specialize in parallel computing, mathematics, and programming languages. [**Here**](/projects) you can see some of the things I have been working on. Also, a pdf version of my [**resume**](/resBen.pdf) for those who love <span class="latex">L<sup>a</sup>T<sub>e</sub>X</span> as much as myself.
 
