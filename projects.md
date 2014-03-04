@@ -4,7 +4,7 @@ title: Projects
 ---
 
 ##Summary
-Here is a collection of the things that I have worked on recently. Also, check out my profile on [**github**](https://github.com/bwhthd)!
+Here is a collection of the things that I have worked on recently. Also, check out my profile on [**GitHub**](https://github.com/bwhthd)!
 
 ---
 ##Summer Research 2013
