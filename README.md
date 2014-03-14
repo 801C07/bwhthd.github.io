@@ -6,5 +6,3 @@ This is a personal website for Ben Whitehead. Thinny is the [Jekyll](https://git
 
 ##More information about theme
 Read the blog post [here](http://camporez.com/blog/thinny-2/).
-
-this is a test for ssh
