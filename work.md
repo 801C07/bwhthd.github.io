@@ -23,8 +23,8 @@ I edit and create more usable content using [**Livewhale CMS**](http://livewhale
 
 
 ###Math Instructor: Mathnasium LLC
-####Jan. 2013 - Present
-[**Mathnasium LLC**](http://mathnasium.com/westlinn): West Linn, OR. Mathnasium is a place where students of all levels come to learn about math. My job is to teach the Mathnasium curriculum to these students; I occasionally assist them with learning topics they are covering in school.
+####Jan. 2013 - March 2014
+[**Mathnasium LLC**](http://mathnasium.com/westlinn): West Linn, OR. Mathnasium is a place where students of all levels come to learn about math. My job was to teach the Mathnasium curriculum to these students; I occasionally assisted them with learning topics they covered in school.
 
 * Teaching (K-12)
 * Communication
