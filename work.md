@@ -8,12 +8,13 @@ I am a Junior at Lewis & Clark College in Portland Oregon, expecting to graduate
 
 ---
 ##Computer Skills
-Languages: Java, C, Haskell, JavaScript, <span class="latex">L<sup>a</sup>T<sub>e</sub>X</span>, HTML, Python, PHP, Markdown
+Languages: HTML, Ruby, JavaScript, Python, C, Java, Haskell, <span class="latex">L<sup>a</sup>T<sub>e</sub>X</span>, PHP
 
 Operating Systems: Linux, Windows, OSX
 
 ---
 ##Experience
+
 ###Web Content Manager: Lewis & Clark College
 ####Oct. 2011 - Present
 I edit and create more usable content using [**Livewhale CMS**](http://livewhale.com/).

@@ -7,6 +7,10 @@ title: Projects
 Here is a collection of the things that I have worked on recently. Also, check out my profile on [**GitHub**](https://github.com/bwhthd)!
 
 ---
+##[Spoke.Coffee](http://spoke.coffee) [**@PDXSW**](http://twitter.com/pdxsw).
+This was my team for [portland startup weekend](http://portland.startupweekend.org/) 2014. We built a sinatra web application in 8 hours, and took home the award in best customer validation. It was a great [learning experience](/blog/Spoke/)!
+
+---
 ##Summer Research 2013
 Over the past summer, I worked with professor Jens Mache and a team of Lewis & Clark Students. Our topic of research was parallel computing. We ended up learning a lot about functional programming in the process.
 
