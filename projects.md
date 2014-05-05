@@ -7,8 +7,12 @@ title: Projects
 Here is a collection of the things that I have worked on recently. Also, check out my profile on [**GitHub**](https://github.com/bwhthd)!
 
 ---
+##[TatooshSchool.org](http://tatooshschool.org)
+May 2-4, 2014. Tatoosh School is a great organization that does field learning in Southeast Alaska. I helped them update their site to a new WordPress [**theme**](http://themeforest.net/item/charitas-foundation-wordpress-theme/5150694). I haden't used WordPress in a long time, so it was good to get reaquainted! This involved lots of content migration and a small amount of changing the underlying CSS and PHP. It was great working with Peter and Erin. The new site should be live within the week!
+
+---
 ##[Spoke.Coffee](http://spoke.coffee) [**@PDXSW**](http://twitter.com/pdxsw).
-This was my team for [portland startup weekend](http://portland.startupweekend.org/) 2014. We built a sinatra web application in 8 hours, and took home the award in best customer validation. It was a great [learning experience](/blog/Spoke/)!
+This was my team for [portland startup weekend](http://portland.startupweekend.org/) April 25-27, 2014. We built a sinatra web application in 8 hours, and took home the award in best customer validation. It was a great [learning experience](/blog/Spoke/)!
 
 ---
 ##Summer Research 2013
