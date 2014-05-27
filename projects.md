@@ -8,7 +8,7 @@ Here is a collection of the things that I have worked on recently. Also, check o
 
 ---
 ##[TatooshSchool.org](http://tatooshschool.org)
-May 2-4, 2014. Tatoosh School is a great organization that does field learning in Southeast Alaska. I helped them update their site to a new WordPress [**theme**](http://themeforest.net/item/charitas-foundation-wordpress-theme/5150694). I haden't used WordPress in a long time, so it was good to get reaquainted! This involved lots of content migration and a small amount of changing the underlying CSS and PHP. It was great working with Peter and Erin. The new site should be live within the week!
+May 2-4, 2014. Tatoosh School is a great organization that does field learning in Southeast Alaska. I helped them update their site to a new WordPress [**theme**](http://themeforest.net/item/charitas-foundation-wordpress-theme/5150694). I hadn't used WordPress in a long time, so it was good to get reaquainted! This involved lots of content migration and a small amount of changing the underlying CSS and PHP. It was great working with Peter and Erin. The new site should be live within the week!
 
 ---
 ##[Spoke.Coffee](http://spoke.coffee) [**@PDXSW**](http://twitter.com/pdxsw).
