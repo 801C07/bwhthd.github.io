@@ -4,7 +4,7 @@ title: Work
 ---
 
 ##Summary
-I am a rising Senior at Lewis & Clark College in Portland Oregon, expecting to graduate in 2015. I specialize in web development. Here is information on some my recent [**projects**](/projects). Also, a pdf version of my [**resume**](/resBen.pdf) for those who love <span class="latex">L<sup>a</sup>T<sub>e</sub>X</span> as much as myself.
+I am a rising Senior at Lewis & Clark College in Portland Oregon, expecting to graduate in 2015. I specialize in web development. Here is information on my most recent [**projects**](/projects). Also, a pdf version of my [**resume**](/resBen.pdf) for those who love <span class="latex">L<sup>a</sup>T<sub>e</sub>X</span> as much as myself.
 
 ---
 ##Computer Skills
