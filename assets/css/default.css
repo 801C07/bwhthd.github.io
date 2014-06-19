@@ -394,7 +394,8 @@ pre code {
 	padding-bottom: 2px;
 	padding-left: 12px;
 	padding-right: 12px;
-	border-radius: 0px 3px 3px 3px;
+	border-radius: 3px;
+	margin-top: -25px;
 	position: fixed;
 	opacity: .75;
 	text-align: center;
@@ -403,7 +404,7 @@ pre code {
 
 .menu-content a {
 	text-transform: uppercase;
-	font-size: 15px;
+	font-size: 20px;
 	font-weight: bold;
 	line-height: 26px;
 	color: #000000;
