@@ -9,11 +9,11 @@ permalink:	/blog/:title
 title:		bwhthd
 tagline:	'blog'
 description:	'My personal blog.'
-url:		http://bwhthd.github.io
+url:		http://bwhthd.com
 
 author:
   name:	'Ben Whitehead'
-  url:	http://bwhthd.github.io
+  url:	http://bwhthd.com
 
 paginate:	6
 
