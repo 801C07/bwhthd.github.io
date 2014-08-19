@@ -1,3 +1,13 @@
+.portfolio{
+	float: left;
+	width: 80%;
+	margin: 20px 10%;
+
+
+}
+
+
+
 html, body, div, span, applet, object, iframe, caption, p, h1, h2, h3 , h4, h5, ul {
 	margin: 0 0 0 0;
 	border: 0 0 0 0;
