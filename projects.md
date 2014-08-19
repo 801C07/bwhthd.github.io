@@ -15,12 +15,12 @@ This is a website I built for [**The Hoffman Group**](http://thehoffmangroup.com
 ___
 
 ##[TatooshSchool.org](http://tatooshschool.org)
-[<img class="portfolio" src="/assets/images/tatoosh.jpg">](http://tatooshschool.org)
+[<img class="portfolio" src="/assets/images/tatoosh.gif">](http://tatooshschool.org)
 May 2-4, 2014. Tatoosh School is a great organization that does outdoor learning in Southeast Alaska. I helped them update their site to a new WordPress [**theme**](http://themeforest.net/item/charitas-foundation-wordpress-theme/5150694). This involved lots of content migration and a small amount of changing the underlying CSS and PHP. It was great working with Peter and Erin!
 ____
 
 ##[Spoke.Coffee](http://spoke.coffee) [**@PDXSW**](http://twitter.com/pdxsw).
-[<img class="portfolio" src="/assets/images/spoke-monitor.jpg">](http://spoke.coffee)
+[<img class="portfolio" src="/assets/images/spoke.gif">](http://spoke.coffee)
 This was my team for [**portland startup weekend**](http://portland.startupweekend.org/) April 25-27, 2014. We built a sinatra web application in 8 hours, and took home the award in best customer validation. It was a great [**learning experience**](/blog/Spoke/)!
 
 ---
