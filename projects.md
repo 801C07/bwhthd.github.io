@@ -11,7 +11,7 @@ ____
 [<img class="portfolio" src="/assets/images/instructionsnow.jpg">](http://instructionsnow.com)
 
 June - August 2014.
-This is a website I built for [**The Hoffman Group**](http://thehoffmangroup.com). They are a local automotive parts manufacturer. They needed a website to host all of the instructions for their parts, so their customers can find up-to-date installation instructions. I wrote all of the code for this site. However, I did not have a lot of say in the styling, but it works really well on mobile!
+This is a website I built for [**The Hoffman Group**](http://thehoffmangroup.com). They are a local automotive parts manufacturer. They needed a website to host all of the instructions for their parts, so their customers can find up-to-date installation instructions. I wrote all of the code for this site. However, I did not have a lot of input in the styling, but it works really well on mobile!
 ___
 
 ##[TatooshSchool.org](http://tatooshschool.org)
