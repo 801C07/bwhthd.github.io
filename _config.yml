@@ -6,8 +6,8 @@ pygments:	true
 permalink:	/blog/:title
 
 # Setup
-title:		bwhthd
-tagline:	'blog'
+title:		Ben Whitehead
+tagline:	'Developer'
 description:	'My personal blog.'
 url:		http://bwhthd.com
 
