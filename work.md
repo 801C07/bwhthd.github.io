@@ -8,12 +8,16 @@ I am a rising Senior at Lewis & Clark College in Portland Oregon, expecting to g
 
 ---
 ##Computer Skills
-Languages: HTML, Ruby, JavaScript, Python, C, Java, Haskell, <span class="latex">L<sup>a</sup>T<sub>e</sub>X</span>, PHP
+Languages: HTML, PHP, JavaScript, Ruby, Python, C, Java, Haskell, <span class="latex">L<sup>a</sup>T<sub>e</sub>X</span>.
 
 Operating Systems: Linux, Windows, OSX
 
 ---
 ##Experience
+
+###Web Developer: The Hoffman Group,  Instructionsnow.com
+####June 2014 - September 2014
+*Full Stack
 
 ###Web Content Manager: Lewis & Clark College
 ####Oct. 2011 - Present
@@ -48,7 +52,7 @@ This was the first website I created. I used it for a math tutoring business to 
 
 ---
 ##Languages
-I took three semesters of Mandarin Chinese at Lewis & Clark.
+I took three semesters of Mandarin Chinese at Lewis & Clark. Now I am taking French.
 
 ---
 ##Extra-Curricular
