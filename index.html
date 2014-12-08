@@ -1,39 +1,116 @@
----
-layout: default
-title: Home
----
+<!DOCTYPE html>
 
-<header class="clean" style="height: 100%; background-image: url(/assets/images/Trail.JPG);">
-	{% include top.html %}
-	<div id="home-title">
-		<a href="{{ site.url }}">
-			<img src="{{ site.icon }}" class="site-icon">
-		</a>
-	</div>
-</header>
-<div id="post-list">
-	{% for post in paginator.posts %}
-		<div>
-			<span class="post-date">{{ post.date | date_to_long_string }}</span>
-			<h1><a href="{{ post.url }}">{{ post.title }}</a></h1>
-			<p class="post-description">{{ post.content | strip_html | truncatewords: 50 }}</p>
+<html>
+	<head>
+	<title>Ben Whitehead &middot; Developer &middot; Portland, OR</title>
+		<link rel="stylesheet" type="text/css" href="style.css">
+		<link href='http://fonts.googleapis.com/css?family=Libre+Baskerville:400,700|Open+Sans' rel='stylesheet' type='text/css'/>
+		<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
+		<meta charset="UTF-8">
+		<script src="https://code.jquery.com/jquery-1.11.0.min.js"></script>
+
+
+	</head>
+
+	<body>
+		<div class="container">
+			<h1 class="name">Ben Whitehead</h1>
+			<ul class="contact"><li><a href="mailto:bdwhthd@gmail.com">bdwhthd@gmail.com</a></li><li> &middot; 208-283-9070</li></ul>
+			<p class="bio">I make applications that simplify routine problems I encounter. Currently I am working on an Sinatra application that allows roommates to easily split their living costs.</p>
+			<p>I am seeking a full-time developer position, beginning in January. <a href="mailto:bdwhthd@gmail.com" />Email Me</a>.</p>
+
+			<h2 class="subheading">Education</h2>
+			<h3>B.A. Lewis &amp; Clark College<span class="badge">September 2011 - May 2015</span></h3>
+			<h4>Major: Mathematics &amp; Computer Science</h4>
+			<ul class="list-details">
+				<li>Recipient of Lewis & Clark Endowed Scholarship (4 Years)</li>
+			</ul>
+
+			<h2 class="subheading">Experience</h2>
+			<h3 class="job-title">Full-Stack Developer<span class="badge">Summer 2014</span></h3>
+			<h4 class="job-website"><a href="http://instructionsnow.com">Instructionsnow.com</a></h4>
+			<p>Instructionsnow.com is a website I built from scratch. It is a place where the Hoffman Group's customers can go to find pdf instructions for their auto parts. The website contains product information, instructions, and manufacturer information for more than 200,000 auto parts.</p>
+			<ul class="list-details">
+				<li>Form handling using AJAX get and post requests</li>
+				<li>Created a dynamically generated site, with over 200,000 parts in SQL</li>
+				<li>I developed a <a href="http://instructionsnow.com/autoloc">Google-Now style search engine</a>, using AJAX, SQL, and PHP</li>
+			</ul>
+
+			<h3 class="job-title">Web Developer<span class="badge">May 2-4 2014</span></h3>
+			<h4 class="job-website"><a href="http://tatooshschool.org">TatooshSchool.org</a></h4>
+			<p>Tatoosh School is a great organization that does outdoor learning in Southeast Alaska. I helped them update their site to a new WordPress theme. This involved changing CSS and PHP in the Wordpress theme, and content migration.</p>
+			<ul class="list-details">
+				<li>Modified WordPress themes and plugins</li>
+				<li>Learned about providing a freelancing service</li>
+			</ul>
+
+			<h3 class="job-title">Co-Founder &amp; JavaScript Developer<span class="badge">April 27-29 2014</span></h3>
+			<h4 class="job-website"><a href="http://Spoke.Coffee">Spoke.Coffee</a></h4>
+			<p> A coffee delivery service that I co-founded during Portland Startup Weekend. We
+				created a web platform to facilitate the delivery of coffee via bike to coffee lovers in
+				Portland. We sold 20 cups of coffee in our first 24 hours, and we won best customer
+				validation and 2nd place overall in the competiton.
+			</p>
+			<ul class="list-details">
+				<li><a href="http://www.lclark.edu/live/news/25932-student-team-honored-at-portland-startup-weekend">2nd place</a> in a startup competition (12 teams)</li>
+				<li>Created a location-based user experience using Google Geocoding API</li>
+				<li>Helped pitch the concept to <a href="http://www.bizjournals.com/portland/gallery/26791?s=image_gallery&img_no=6">hundreds of people</a></li>
+				<li>Use of .coffee tld</li>
+			</ul>
+
+			<h3 class="job-title">Web Content Manager<span class="badge">October 2011 - April 2014</span></h3>
+			<h4 class="job-website"><a href="http://lclark.edu">lclark.edu</a></h4>
+			<p>I worked in the office of Public Affairs and Communications, managing and migrating content for lclark.edu. This was my first professional exposure to HTML, CSS, and PHP.</p>
+			<ul class="list-details">
+				<li><a href="http://www.lclark.edu/live/news/15071-search-engine-redesign-explained-by-new-media">Tested a search engine</a></li>
+				<li>Migrated content from old Lewis &amp; Clark Chronicle issues</li>
+				<li>Content Management System Experience</li>
+			</ul>
+
+			<h3 class="job-title">Research Assistant<span class="badge">Summer 2013</span></h3>
+			<h4 class="job-website"><a href="https://sites.google.com/a/lclark.edu/parallel/">Project Website</a></h4>
+			<p>Worked with professor Jens Mache at Lewis & Clark College researching the best methods for teching parallel computing.</p>
+			<ul class="list-details">
+				<li>Published at WORLDCOMP world congress in computer science, Las Vegas.</li>
+				<li>Developed and presented a module for functional parallel programming in Haskell.</li>
+			</ul>
+
+			<h2 class="subheading">Skills</h2>
+			<ul class="skills">
+				<li class="skill">PHP</li>
+				<li class="skill">JavaScript</li>
+				<li class="skill">AJAX</li>
+				<li class="skill">jQuery</li>
+				<li class="skill">MySQL</li>
+				<li class="skill">Ruby on Rails</li>
+				<li class="skill">Sinatra</li>
+				<li class="skill">Web Applications</li>
+				<li class="skill">CSS</li>
+				<li class="skill">HTML</li>
+				<li class="skill">Haskell</li>
+				<li class="skill">WordPress</li>
+				<li class="skill">Active Record</li>
+				<script>
+
+				$(".skill").each(function(){
+					$(this).css("background-color", function(){
+						console.log(Math.floor(Math.random()*16777215).toString(16));
+					})
+				})
+				</script>
+
+			</ul>
+			
+			<footer>
+				<a class="linkedin" href="http://www.linkedin.com/pub/ben-whitehead/a9/927/858/"><img src="linkedin.jpeg" class="linkedin" title="Connect with me on LinkedIn" alt="linked in"/></a>
+				<p>References Available Upon Request</p>
+				<ul class="contact"><li><a href="mailto:bdwhthd@gmail.com">bdwhthd@gmail.com</a></li><li> &middot; 208-283-9070</li></ul>			</footer>
 		</div>
-		<br>
-	{% endfor %}
-</div>
-<nav class="pagination" role="navigation">
-	{% if paginator.next_page %}
-		<a class="newer-posts" href="/page{{paginator.next_page}}">&larr; Older posts</a>
-	{% endif %}
-	<span class="page-number">Page {{ paginator.page }} of {{ paginator.total_pages }}</span>
-	{% if paginator.previous_page %}
-		{% if paginator.page == 2 %}
-			<a class="older-posts" href="/">Newer posts &rarr;</a>
-		{% else %}
-			<a class="older-posts" href="/page{{paginator.previous_page}}">Newer posts &rarr;</a>
-		{% endif %}
-	{% endif %}
-</nav>
-<footer class="clean" style="background-image: url(/assets/images/Trail.JPG); background-position: bottom; height: 60px;">
-	{{ site.copyright }}
-</footer>
+	</body>
+
+
+
+
+
+
+</html>
