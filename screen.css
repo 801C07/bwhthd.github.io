@@ -4,10 +4,16 @@ body{
 
 .name{
 	font-family: 'Libre Baskerville', serif;
+	margin-bottom: 5px;
 }
 
 .contact{
 	font-family: 'Libre Baskerville', serif;
+}
+
+.social {
+	margin: 10px;
+	color: black;
 }
 
 footer{
@@ -89,6 +95,8 @@ footer{
 
 .objective{
 	text-align: center;
+	width: 80%;
+	margin: 0 8%;
 }
 
 .skill{
@@ -139,4 +147,11 @@ footer{
 	.skills{
 		height: 100px;
 	}
+}
+
+@media screen{
+	.noscreen{
+		display: none;
+	}
+
 }

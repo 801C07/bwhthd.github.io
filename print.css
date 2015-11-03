@@ -1,0 +1,20 @@
+@media print{
+	body{
+	  -webkit-print-color-adjust:exact;
+	  font-size: 10pt
+	}
+
+	.noprint{
+		display: none;
+	}
+
+	.printmsg{
+		width:100%;
+		margin:0;
+	}
+
+	.container{
+		width:95%;
+		margin:0 2.5%;
+	}
+}
