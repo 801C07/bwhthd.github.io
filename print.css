@@ -1,7 +1,7 @@
 @media print{
 	body{
 	  -webkit-print-color-adjust:exact;
-	  font-size: 10pt
+	  font-size: 9pt
 	}
 
 	.noprint{
@@ -14,7 +14,6 @@
 	}
 
 	.container{
-		width:95%;
-		margin:0 2.5%;
+		width:100%;
 	}
 }
