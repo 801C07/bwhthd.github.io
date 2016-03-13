@@ -17,6 +17,7 @@ body{
 }
 
 footer{
+	clear:both;
 	font-family: 'Libre Baskerville', serif;
 }
 .subheading{
@@ -123,7 +124,7 @@ footer{
 }
 
 
-@media (min-width: 600px) {
+@media (min-width: 500px) {
 
 	.container{
 		width:70%;
