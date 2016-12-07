@@ -1,0 +1,149 @@
+<!DOCTYPE html>
+<html>
+<title>Ben Whitehead November Notes</title>
+
+<xmp theme="united" style="display:none;">
+
+
+#November Notes
+
+Notes
+
+Differences between old dev and new dev papemh
+
+New equipment section:
+- breadcrumbs
+- featured equipment photos
+- brand slider is not the same
+- brand name photos for first level categories are not the same : http://2016-papemh.adpearance.com/new-equipment/aerial/
+- Equipment needs to broken into separate pages
+- The SEO copy, featured eq., and brand slider is not on the new dev site on the manufacturer level pages
+- used equipment and locations
+
+Rerun Equipment Scrapes For PapeMH NEw Eq
+Make case stmt for the live site, and adjust the image path
+Had to add a bunch of new channel fields to the new equipment group **will need to repeat on live**
+- Top Specifications
+- Specifications
+- Top Features
+- Images
+- Overview
+
+Categories are getting overwritten by the importer.
+We have to run the scraper on a different category group. Then associate the manufacturers with this new category group, and add additional disdplay categories which are not getting scraped, and manually assoxciate the equipment **This needs to be repeated on live**
+
+What is our best course of action here? re-map the cateogries, and re-write the new eq plugin? Or just figure out how to make them work after being imported.
+
+- Which parts nbeed to be re-written?
+- Will this affect other sites?
+- Should categories simply be renamed? And re associated?
+
+My scraped cateogory group has been re asscoiated on the new dev site, now I need to make changes in the front end to see if this will work.
+
+Add category group to the new equipment channel. Add category group to the manufacturers channel and associate manufacturers with those given categories; 
+
+Loadlifter manually imported?
+- Need to add rough terrain forklift category under forklifts -> New Eq
+
+New Equipment
+- Forklift top-level category
+- Brands
+- Featured Equipment
+
+Styles
+Done - Dark Space header about on categories page categories
+Done - image slider styles 
+=====================================================================================================================================================================================================================================================
+
+Seven Month Check-in December 6, 11:00, Upstairs Right 
+
+- Worried about the future of PHP at ADP
+	= Aside from maintenance tasks and smaller clients, PHP is not being used for the big projects at ADP
+	= FourSite is a mess, but getting better
+	SOLUTION: I would like to start tranisitioning into foursite projects as well, so I can start knowing about it. 
+	= All sites moving to FourSite: Pape, Fairchild, etc
+
+- Getting mixed messages, and not agreeing with priority, getting passed around without being able to make significant impact
+
+- Example: Getting passed to POA, after working on PAPEMH, and completely skipping DCI, which I spent 30 minutes in a meeting to discuss the day before
+
+- Example: Pape Construction: random tasks popping up before anything was complete, and especially during the finalization process (putting things into git, compiling styles)
+
+- Example: PMs need to get their shit together specifically for Pape. I have wasted time trying to ge the appropriate styles for certain features. Then they change their mind, and decide that they do in fact want all of the new styles to go live. PAPEMH (https://adpearance.jira.com/browse/PAPE-1643) 1.5 hours spent getting all styles, and 5-6 hours on https://adpearance.jira.com/browse/PAPE-1626 trying to get the specific files for a given feature.
+
+- Issue with designers not taking ownership of their code (all the way to prod)
+	= pape construction : different components being used between dev and live, homepage not approved, new equipment section approved (using these new components) cannot take all styles because it would effect the homepage as well
+	= papemh : same issue as above
+	= Because of this, I had to be pulled off POA to work on Pape, so that I designer could work on it 12/2. Took an hour of time that I should have been working on POA
+	SOLUTION: properly using git with branches. I should not have to manage the differences between style sheets. There is a high chance for error here, and I don't know what I'm doing.
+	= compressing js/css : this is a very basic task and the desaigners need to be able to do it, they should be developing with minified css, and we need to be using sourcemaps so we can see which sass files need to be modified on prod or dev.
+	SOLUTION: Git/Gulp Workshops or simply let me be the guy who handles these questions, this is ownership of code, and a quality insurance. Also helps us know who to ask if we have an issue with it. 
+
+- Security Concerns
+	= Disabling a users access to a given dev/prod server
+	= Upset employee could bring down our entire network, and all of our repos becasue of the way it is setup right now.
+	= Allowing clients to choose their host (everything needs to be on AWS)
+	= No client should have a choice on which host they are going to use, everybody needs to be on AWS
+	SOLUTION: VPN to our aws network, single SSH key for each user to this VPN, and SSH keys from there to each box. Then SSH keys for git repos
+
+
+
+##11/30 UPDATE TO WORK ON POA IMPORTER
+
+POA Importer Class:
+extension -> action -> method inside of module
+**check to see that the server is in fact running that process.** not some random user in EE
+
+test url : http://52.27.213.210:8181/modelsTest?brand=konica+minolta
+
+Brand is handled by the brand category group. 
+
+Product type is the other category group. when formatting data, I need to map the categories coming in from the scraper into the ones in POA.
+
+----------------
+Problems with the pape importer (things to avoid on POA):
+* Multi Site
+	= Problems running on different subsites, or even between dev and live..
+	= Often there are issues with categorization, include comments on how to handle categorization.
+		- Scraped vs display categories
+		- Category Group IDS
+		- File Paths
+		- Fetching params
+		
+**SOLUTION: Case statements handling everything that is different between dev and live, including:**
+
+* Category Groups 
+	*= are we categorizing these printers?*
+	= Do we need to combine any categories?
+		- One Scraped Category Group which maps to display category group, all handled with IDs
+		- Display group should be created if it does not exist.
+		- Mapping should happen by url name, not by ID. We need to decide on the display categories.
+SOLUTION: each manufacturer will map to the live list of the *product type* category group.
+	- Hard code the mapping, and raise an error if the category scraped does not exist in this mapping, then add it manually
+	- Copiers, Fax, Folders-Inserters, Multifunction, Office Supplies, Postage Meters, Printers, Production, Scanner, Wide Format
+
+* Images
+	= Storage, pathnames, etc.. Is always a problem 
+
+**SOLUTION: Case statement solution above, making sure differences between live and dev are not a problem**
+
+* Matricies
+	- Apprearantly POA will not need matrix fields. These fields should be added by the importer properly if they do not exist.
+	- This is always an issue with Pape
+
+* No way to test
+	- pape is simply trial and error, there are no exceptions or tests run on the server
+SOLUTION: Include some testing data that will break the importer so that it raises exceptioons, for new categories, etc.
+---------------
+
+C56072376
+
+Notes on extensions:
+Unlike plugins extensions are not used within templates, they instead allow you to modify the core itself. 
+
+
+
+</xmp>
+
+<script src="http://strapdownjs.com/v/0.2/strapdown.js"></script>
+</html>
